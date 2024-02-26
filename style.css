@@ -38,6 +38,11 @@ body {
   margin-top: 20px;
 }
 
+.contact-info p a{
+  color:darkorange;
+  text-decoration: none;
+}
+
 h1, h2, h3 {
   margin: 0;
   
